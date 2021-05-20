@@ -1,0 +1,13 @@
+.element__text {
+        margin-left: 10px;
+        height: auto;
+        font-style: normal;
+        font-size: 15px;
+        line-height: 17px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        
+}

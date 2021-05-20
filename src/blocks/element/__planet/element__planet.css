@@ -1,0 +1,9 @@
+.element__planet {
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+}

@@ -1,0 +1,11 @@
+.element__container {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

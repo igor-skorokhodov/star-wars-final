@@ -1,0 +1,7 @@
+.element {
+    display: grid;
+    width: 282px;
+    height: auto;
+    grid-template-columns: 282px;
+    border-radius: 30px 30px 30px 30px;
+}

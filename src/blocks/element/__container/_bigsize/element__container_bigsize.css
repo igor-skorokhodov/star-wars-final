@@ -1,0 +1,9 @@
+.element__container_bigsize {
+        width: 800px;
+        height: 800px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        background-color: white;
+        border-radius: 10px 10px 10px 10px;
+}
